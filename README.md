@@ -1,5 +1,6 @@
 # User Authentication using Passport and Bcrypt
 A robust, secure web application made with passport and bcrypt modules which use on-cloud Atlas MongoDB to store and retrieve user data.
+View the live version at https://user-auth-passport.herokuapp.com/
 
 ### Made with
 
@@ -19,8 +20,11 @@ git clone https://github.com/inFamousxD/user-auth-passport
 ### Run
 
 ```bash
-npm run start #for production
-npm run dev #for development
+#for production
+npm run start 
+
+#for development
+npm run dev 
 ```
 
-View the live version at https://user-auth-passport.herokuapp.com/
+
