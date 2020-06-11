@@ -1,5 +1,5 @@
-# user-auth-passport
-A passport based secure user authentication with bcrypt hashing.
+# User Authentication using Passport and Bcrypt
+A robust, secure web application made with passport and bcrypt modules which use on-cloud Atlas MongoDB to store and retrieve user data.
 
 ### Made with
 
@@ -18,7 +18,7 @@ git clone https://github.com/inFamousxD/user-auth-passport
 
 ### Run
 
-```
+```bash
 npm run start #for production
 npm run dev #for development
 ```
