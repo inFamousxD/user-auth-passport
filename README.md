@@ -13,7 +13,7 @@ View the live version at https://user-auth-passport.herokuapp.com/
 
 ### Clone this repository with
 
-```
+```bash
 git clone https://github.com/inFamousxD/user-auth-passport
 ```
 
